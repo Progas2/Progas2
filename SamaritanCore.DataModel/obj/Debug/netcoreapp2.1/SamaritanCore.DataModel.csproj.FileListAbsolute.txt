@@ -1,0 +1,10 @@
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\bin\Debug\netcoreapp2.1\SamaritanCore.DataModel.deps.json
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\bin\Debug\netcoreapp2.1\SamaritanCore.DataModel.runtimeconfig.json
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\bin\Debug\netcoreapp2.1\SamaritanCore.DataModel.runtimeconfig.dev.json
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\bin\Debug\netcoreapp2.1\SamaritanCore.DataModel.dll
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\bin\Debug\netcoreapp2.1\SamaritanCore.DataModel.pdb
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\obj\Debug\netcoreapp2.1\SamaritanCore.DataModel.csprojAssemblyReference.cache
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\obj\Debug\netcoreapp2.1\SamaritanCore.DataModel.AssemblyInfoInputs.cache
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\obj\Debug\netcoreapp2.1\SamaritanCore.DataModel.AssemblyInfo.cs
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\obj\Debug\netcoreapp2.1\SamaritanCore.DataModel.dll
+C:\Users\proga\Desktop\sozdanoe\SamaritanCore-develop\SamaritanCore.DataModel\obj\Debug\netcoreapp2.1\SamaritanCore.DataModel.pdb
